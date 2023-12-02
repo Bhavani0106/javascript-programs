@@ -26,7 +26,8 @@ console.log(employees[2].name)
 
 console.log(employees[0].sal)
 console.log(employees[1].sal)
-console.log(employees[2].sal)
+console.log(employees[2].sal
+)
 
 
 
